@@ -1,0 +1,83 @@
+head {
+	font-family: 'Crimson Text', serif;
+}
+body {
+	font-family: Georgia;
+	padding: 15px;
+	background-color: #EFE8E8;
+	border: 1px solid black;
+	font-size: 16px;
+}
+h1 {
+	font-size: 50px; 
+	height: 330px;
+	background: url(jap.png) no-repeat center center ;
+	background-size: cover ;
+	color: white;
+}	
+div {
+	
+	margin: 2px;
+}
+h1 {
+	
+	font-family: 'Lobster Two', cursive;
+	font-weight: bold ;
+	font-size: 50px ;
+}
+
+h2 {
+	font-family: 'Lobster Two', cursive;
+	font-size: 30px;
+	color: #A80000;
+	text-decoration: underline;
+}
+a:hover{
+	color: black 	;
+}
+#menu {
+	border: 1px solid black;
+
+}
+#menu li{
+	display: inline;
+	list-style: none;
+	border-spacing: px;
+}
+#menu a {
+	display: inline-block;
+	margin: 10px 40px 10px 40px;
+}
+#menu {
+	font-family: 'Londrina Solid', cursive;
+	font-size: 16px;
+}
+/* Responsive */
+@media (max-width: 320px) {
+	h1 { 
+		font-size: 40px ;
+	}
+}
+<style>
+.carousel-page {
+
+height: 50px;
+width: 50px;
+background-color: black;
+color:white;
+}
+</style>
+.carousel-inner > .item > img{
+       width: 15px;
+       height: 400px;
+     }
+:;
+p {
+	color: black; 
+	font-size: 16px;
+	font-family: 'Vollkorn', serif;
+}
+.navbar-nav{
+	background-color: transparent;
+	color: #EFE8E8 ;
+}
