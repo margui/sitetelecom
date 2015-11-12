@@ -2,12 +2,14 @@ head {
 	font-family: 'Crimson Text', serif;
 }
 body {
-	font-family: Georgia;
+	font-family: 'Handlee', cursive;
 	padding: 15px;
-	background-color: #EFE8E8;
+	background-color: #FFFDFA;
 	border: 1px solid black;
-	font-size: 16px;
+	font-size: 18px;
+	text-align: center;
 }
+
 h1 {
 	font-size: 50px; 
 	height: 330px;
@@ -20,7 +22,6 @@ div {
 	margin: 2px;
 }
 h1 {
-	
 	font-family: 'Lobster Two', cursive;
 	font-weight: bold ;
 	font-size: 50px ;
@@ -31,9 +32,17 @@ h2 {
 	font-size: 30px;
 	color: #A80000;
 	text-decoration: underline;
+	text-align: center;
 }
+h3 {
+	font-size: 25px;
+	color: black;
+	font-family: 'Lobster Two', cursive;
+	text-align: center;
+}
+
 a:hover{
-	color: black 	;
+	color: red;
 }
 #menu {
 	border: 1px solid black;
