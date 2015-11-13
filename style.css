@@ -2,12 +2,14 @@ head {
 	font-family: 'Crimson Text', serif;
 }
 body {
-	font-family: 'Handlee', cursive;
 	padding: 15px;
 	background-color: #FFFDFA;
 	border: 1px solid black;
 	font-size: 18px;
+}
+body {
 	text-align: center;
+	font-family: 'Handlee', cursive
 }
 
 h1 {
